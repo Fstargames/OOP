@@ -1,0 +1,5 @@
+/home/franc/OOP/build/CMakeFiles/Working.dir
+/home/franc/OOP/build/CMakeFiles/package.dir
+/home/franc/OOP/build/CMakeFiles/package_source.dir
+/home/franc/OOP/build/CMakeFiles/edit_cache.dir
+/home/franc/OOP/build/CMakeFiles/rebuild_cache.dir
